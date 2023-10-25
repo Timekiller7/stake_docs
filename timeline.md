@@ -11,17 +11,17 @@ micro_nav: true
 
 A single window has the following stages
 * Staking/Withdrawal Period
-* Rewards distribution Period
+* Rewards Distribution Period
 
 <p align="center">
   <img src="./window.jpg"></img>
 </p>
 
-As the staking pool starts, the staking/withdrawal period begins and users can send tokens to pool in order to stake them. Tokens aren’t locked in the on-chain script, users can withdraw their deposited amount plus earned rewards in any time during staking/withdrawal period.
+As the staking pool starts, the Staking/Withdrawal Period begins and users can send tokens to pool in order to stake them. Tokens aren’t locked in the on-chain script, users can withdraw their deposited amount plus earned rewards in any time during Staking/Withdrawal Period.
 
-Tokens must be deposited <b> before </b> the start of the staking/withdrawal period for which user want to receive a reward.
+Tokens must be deposited <b> before </b> the start of the Staking/Withdrawal Period for which user want to receive a reward.
 
-After the staking/withdrawal period is over, then comes rewards distribution period. For past staking/wintdrawal period in current window the staking rewards are accrued to users, proportionally to their share of the overall staked pool in that period.
+After the Staking/Withdrawal Period is over, then comes Rewards Distribution Period. For past Staking/Wintdrawal Period in current window the staking rewards are accrued to users, proportionally to their share of the overall staked pool in that period.
 
 <br>
   Example of accruing rewards logic for user:
