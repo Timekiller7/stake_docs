@@ -12,7 +12,9 @@ micro_nav: true
 A single window has the following stages
 * Staking/Withdrawal Period
 * Rewards distribution Period
-  
+
+![staking](window.jpg)
+
 As the staking pool starts, the staking/withdrawal period begins and users can send tokens to pool in order to stake them. Tokens aren’t locked in the on-chain script, users can withdraw their deposited amount plus earned rewards in any time during staking/withdrawal period.
 
 Tokens must be deposited <b> before </b> the start of the staking/withdrawal period for which user want to receive a reward.
@@ -34,4 +36,8 @@ After the staking/withdrawal period is over, then comes rewards distribution per
     * User’s final (confirmed) stake = 15 AGIX
     * Rewards are accrued to user for 15 AGIX stake + rewards(2)
 
-The diagram below shows the timeline (with sample time periods) of the key events (staking/withdrawal, rewards distribution)
+Examples of user’s behavior:
+
+![staking](window1.jpg)
+![staking](window2.jpg)
+![staking](window3.jpg)
